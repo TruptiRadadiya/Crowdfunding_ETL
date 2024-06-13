@@ -39,10 +39,10 @@ Crowdfunding_ETL/
 │   ├── campaign.csv
 │   └── contacts.csv
 ├── Images/
-│   ├── category_dataframe.png
-│   ├── subcategory_dataframe.png
-│   ├── campaign_dataframe.png
-│   └── contacts_dataframe.png
+│   ├──
+│   ├──
+│   ├──
+│   └──
 ├── ETL_Mini_Project_TRadadiya_ZLiang_YWong_FGirnary.ipynb
 ├── crowdfunding_db_schema.sql
 └── README.md
